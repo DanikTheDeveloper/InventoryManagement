@@ -1,0 +1,16 @@
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\bin\Debug\net10.0\InventoryManagement.Application.deps.json
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\bin\Debug\net10.0\InventoryManagement.Application.dll
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\bin\Debug\net10.0\InventoryManagement.Application.pdb
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\bin\Debug\net10.0\InventoryManagement.Domain.dll
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\bin\Debug\net10.0\InventoryManagement.Domain.pdb
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\obj\Debug\net10.0\InventoryManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\obj\Debug\net10.0\InventoryManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\obj\Debug\net10.0\InventoryManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\obj\Debug\net10.0\InventoryManagement.Application.AssemblyInfo.cs
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\obj\Debug\net10.0\InventoryManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\obj\Debug\net10.0\InventoryManagement.Application.sourcelink.json
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\obj\Debug\net10.0\Inventor.0D5EB3FB.Up2Date
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\obj\Debug\net10.0\InventoryManagement.Application.dll
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\obj\Debug\net10.0\refint\InventoryManagement.Application.dll
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\obj\Debug\net10.0\InventoryManagement.Application.pdb
+C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Application\obj\Debug\net10.0\ref\InventoryManagement.Application.dll
