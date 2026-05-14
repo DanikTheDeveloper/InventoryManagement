@@ -172,4 +172,3 @@ C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Api\obj\
 C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Api\obj\Debug\net10.0\InventoryManagement.Api.pdb
 C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Api\obj\Debug\net10.0\InventoryManagement.Api.genruntimeconfig.cache
 C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Api\obj\Debug\net10.0\ref\InventoryManagement.Api.dll
-C:\Users\Danik\Documents\GitHub\InventoryManagement\InventoryManagement.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
